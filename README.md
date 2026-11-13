@@ -23,4 +23,4 @@ I run my own businesses with the systems I build. Now I build them for other com
 
 25+ years in operations, inventory and accounting · San Antonio, TX · Bilingual English / Spanish
 
-🌐 [aptocode.com](https://www.aptocode.com)
+🌐 [aptocode.com](https://www.aptocode.com) · 💼 [Hire me on Upwork](https://www.upwork.com/freelancers/~0176e8afde5db388a0)
