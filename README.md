@@ -4,7 +4,7 @@ I run my own businesses with the systems I build. Now I build them for other com
 
 **What I automate**
 
-- 💬 **WhatsApp AI agents.** Answer customers, take orders, and hand off to a person when needed.
+- 💬 **WhatsApp AI assistants.** Answer routine customer questions at any hour and hand off to a person when needed.
 - 📋 **Paper forms to apps.** Field crews fill out a form on the phone, and you get a dashboard and invoices.
 - 📦 **Inventory systems.** Daily cycle counts, stock by location, reorder alerts.
 - 🔗 **Integrations.** QuickBooks, Stripe, Square, Google Sheets.
@@ -13,9 +13,9 @@ I run my own businesses with the systems I build. Now I build them for other com
 
 | Project | Problem | Solution |
 |---|---|---|
-| ShapersAdmin | 8 retail stores, monthly counts, losses found too late | Daily count app + reports by store |
-| JLP Field | Telecom field crews on paper, billing errors | Phone form → dashboard → invoices |
-| CoquiCool | A 2-person company with 100+ business customers | WhatsApp AI agent + admin run by voice |
+| ShapersAdmin | 8 retail stores where real losses hid among counting errors | Daily count and review connected to Square |
+| JLP Field | Handwritten job sheets retyped in the office before billing | Phone form → invoices → payment matching |
+| CoquiCool | A 2-person company serving 78 business locations | One order link per store, WhatsApp AI assistant, QuickBooks sync |
 
 **Open source samples**
 
