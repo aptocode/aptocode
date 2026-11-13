@@ -15,7 +15,7 @@ I run my own businesses with the systems I build. Now I build them for other com
 |---|---|---|
 | ShapersAdmin | 8 retail stores where real losses hid among counting errors | Daily count and review connected to Square |
 | JLP Field | Handwritten job sheets retyped in the office before billing | Phone form → invoices → payment matching |
-| CoquiCool | A 2-person company serving 78 business locations | One order link per store, WhatsApp AI assistant, QuickBooks sync |
+| CoquiCool | A 2-person company serving 80+ business locations | One order link per store, WhatsApp AI assistant, QuickBooks sync |
 
 **Open source samples**
 
